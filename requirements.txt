@@ -1,0 +1,4 @@
+Flask==2.2.2
+pychallonge==1.11.5
+PyQt5==5.15.7
+twilio==7.16.0

@@ -1,0 +1,2 @@
+pychallonge==1.11.5
+PyQt5==5.15.7
